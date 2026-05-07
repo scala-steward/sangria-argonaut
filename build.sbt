@@ -36,7 +36,7 @@ libraryDependencies ++= Seq(
   "org.sangria-graphql" %% "sangria-marshalling-api" % "1.1.3",
   "io.github.argonaut-io" %% "argonaut" % "6.3.11",
   "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.4" % Test,
-  "org.scalatest" %% "scalatest" % "3.2.19" % Test
+  "org.scalatest" %% "scalatest" % "3.2.20" % Test
 )
 
 git.remoteRepo := "git@github.com:sangria-graphql/sangria-argonaut.git"
